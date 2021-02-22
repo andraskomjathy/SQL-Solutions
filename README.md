@@ -1,2 +1,2 @@
 # SQL-Solutions
-SQL Solutions for a lot of different issues.
+SQL solutions for a lot of different issues.
